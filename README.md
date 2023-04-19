@@ -1,7 +1,7 @@
-<h1 align="center">Basic-java-programming</h1>
-<h5 align="center">This repository contains a few basic Java programming examples and syntax, these programs are sourced from Kunal Kushwaha's 'DSA-Bootcamp-Java' playlist</h5>
-<h1 align="center">Hi 👋 I'm Vineeth Sankre</h1>
-<h3 align="center">I'm currently learning DevOps and exploring ways to integrate it into my projects on GitHub</h3>
+<h1 align="left">Basic-java-programming</h1>
+<h5 align="left">This repository contains a few basic Java programming examples and syntax, these programs are sourced from Kunal Kushwaha's 'DSA-Bootcamp-Java' playlist</h5>
+<h1 align="left">Hi 👋 I'm Vineeth Sankre</h1>
+<h3 align="left">I'm currently learning DevOps and exploring ways to integrate it into my projects on GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethsankre&label=Profile%20views&color=0e75b6&style=flat" alt="vineethsankre" /> </p>
 
