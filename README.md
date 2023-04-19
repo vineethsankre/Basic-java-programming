@@ -1,5 +1,5 @@
-<h1 align="center">Java-programs-from-kunal-kushwaha</h1>
-<h5 align="center">This repository contains a few basic Java programming examples and these programs are sourced from Kunal Kushwaha's 'DSA-Bootcamp-Java' playlist</h5>
+<h1 align="center">Basic-java-programming</h1>
+<h5 align="center">This repository contains a few basic Java programming examples and syntax, these programs are sourced from Kunal Kushwaha's 'DSA-Bootcamp-Java' playlist</h5>
 <h1 align="center">Hi 👋, I'm Vineeth Sankre</h1>
 <h3 align="center">I'm currently learning DevOps and exploring ways to integrate it into my projects on GitHub</h3>
 
